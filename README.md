@@ -15,10 +15,16 @@ tranforming business requirements in real production ready products and that dev
 
 🧰 My current languages toolbox
 
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="Typescript Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Go Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="C# Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node Logo" width="50" height="50"/>
+</div>
 
+<h1>Cloud</h1>
 <img src="https://raw.githubusercontent.com/arthurgavazza/arthurgavazza/main/langstack.svg?token=GHSAT0AAAAAABRPPNHZXENVCKMZHAUGFFDYYQZCY3A" alt="cloudstack" width="400" height="400">
+
+<h1>Learning</h1>
+<img src="https://raw.githubusercontent.com/arthurgavazza/arthurgavazza/main/langstack.svg?token=GHSAT0AAAAAABRPPNHZXENVCKMZHAUGFFDYYQZCY3A" alt="learning" width="400" height="400">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurgavazza&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
