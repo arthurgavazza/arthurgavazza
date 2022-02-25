@@ -21,9 +21,11 @@ tranforming business requirements in real production ready products and that dev
 My current Cloud and devops toolbox
  <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="Sonarqube Logo" width="50" height="50"/>
- <foreignObject width="100%" height="100%">
+<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-   <style>
+
+      <style>
         .tags {
           display: flex;
           flex-wrap: wrap;
@@ -43,10 +45,9 @@ My current Cloud and devops toolbox
           text-decoration: none;
           font-family: sans-serif;
         }
-   </style>
-      
+      </style>
 
-  <div class="tags">
+      <div class="tags">
         <div class="tag">Angular</div>
         <div class="tag">Vue(X)</div>
         <div class="tag">JavaScript</div>
@@ -61,8 +62,11 @@ My current Cloud and devops toolbox
         <div class="tag">Ionic</div>
         <div class="tag">Electron</div>
         <div class="tag">.NET</div>
- </div>
-  </div>
+      </div>
+
+    </div>
+  </foreignObject>
+</svg>
 
 
 My current testing toolbox
