@@ -1,6 +1,6 @@
 <svg fill="none" viewBox="0 0 800 600" width="800" height="600" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
+		<div class="container" xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 	
 
@@ -14,9 +14,11 @@
 					width: 100%;
 					height: 100%;
 			        background:#1C0041;
-					border-radius: 10px;
+					border-radius: 10px white;
 					color: #A30057;
 					text-align: center;
+					
+					
 				}
 
 				h1 {

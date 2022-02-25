@@ -20,15 +20,12 @@ tranforming business requirements in real production ready products and that dev
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node Logo" width="50" height="50"/>
 </div>
 
-<div>
+<div align="center">
 <h1>Cloud</h1>
-<img src="https://raw.githubusercontent.com/arthurgavazza/arthurgavazza/main/langstack.svg?token=GHSAT0AAAAAABRPPNHZXENVCKMZHAUGFFDYYQZCY3A" alt="cloudstack" width="400" height="400">
-
+<img src="https://raw.githubusercontent.com/arthurgavazza/arthurgavazza/main/langstack.svg?token=GHSAT0AAAAAABRPPNHZXENVCKMZHAUGFFDYYQZCY3A" alt="cloudstack" width="300" height="300">
 <h1>Learning</h1>
-<img src="https://raw.githubusercontent.com/arthurgavazza/arthurgavazza/main/cloudstack.svg" alt="learning" width="400" height="400">
+<img src="https://raw.githubusercontent.com/arthurgavazza/arthurgavazza/main/cloudstack.svg" alt="learning" width="300" height="300">
 </div>
-
-
 <h1>Coding Activity</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurgavazza&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
