@@ -20,13 +20,14 @@ tranforming business requirements in real production ready products and that dev
 
 My current Cloud and devops toolbox
 
- <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="Sonarqube Logo" width="50" height="50"/>
-
+<div><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="Sonarqube Logo" width="50" height="50"/>
+</div>
 
 
 
 My current testing toolbox
+
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="Mocha Logo" width="50" height="50"/>
 
