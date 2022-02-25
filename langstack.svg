@@ -4,30 +4,6 @@
 			<style>
 	
 
-				@keyframes gradientBackground {
-					0% {
-						background-position: 0% 50%;
-					}
-					50% {
-						background-position: 100% 50%;
-					}
-					100% {
-						background-position: 0% 50%;
-					}
-				}
-
-				@keyframes fadeIn {
-					0% {
-						opacity: 0;
-					}
-					66% {
-						opacity: 0;
-					}
-					100% {
-						opacity: 1;
-					}
-				}
-
 				.container {
 					font-family:
 						system-ui,
@@ -46,9 +22,6 @@
 					margin: 0;
 					width: 100%;
 					height: 400px;
-					background: grey;
-					background-size: 600% 400%;
-					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
 					color: white;
 					text-align: center;
@@ -65,19 +38,21 @@
 						0 3px 0 #efefef,
 						0 4px 0 #efefef,
 						0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: ease-in-out 1s infinite alternate;
 				}
 
 				p {
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
-					animation: 5s ease 0s normal forwards 1 fadeIn;
-				}
+					
 			</style>
 			<div class="container">
 				<h1> My current toolbox</h1>
 				<p>Cloud and Devops</p>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="Sonarqube Logo" width="50" height="50"/>
+                                <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50"/>
+				<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github Logo" width="50" height="50"/>
+				<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="50" height="50"/>
+				<img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ Logo" width="50" height="50"/>
+				<img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="Sonarqube Logo" width="50" height="50"/>
 			</div>
 		</div>
 	</foreignObject>
