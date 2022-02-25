@@ -40,6 +40,31 @@
 						0 4px 0 #efefef,
 						0 12px 5px rgba(0, 0, 0, 0.1);
 				}
+				
+				
+				    .tags {
+          display: flex;
+          flex-wrap: wrap;
+          height: 100%;
+          width: 100%;
+          margin-bottom: 5px;
+        }
+        .tag {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          gap: 5px;
+          padding: 5px 15px;
+          border-radius: 10px;
+          font-weight: 500;
+          font-size: 0.85rem;
+          width: fit-content;
+          white-space: nowrap;
+          font-family:sans-serif;
+          background-color: #e3ffff;
+          color: #0ca4a5;
+          margin: 0.125em;
+        }
 
 				p {
 					font-size: 20px;
@@ -56,6 +81,22 @@
 				<img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ Logo" width="50" height="50"/>
 				
 			</div>
+			     <div class="tags">
+        <div class="tag">Vue</div>
+        <div class="tag">React</div>
+        <div class="tag">Svelte</div>
+        <div class="tag">Angular</div>
+      </div>
+      <div class="tags">
+        <div class="tag">SASS</div>
+        <div class="tag">TypeScript</div>
+        <div class="tag">Atomic Design</div>
+      </div>
+      <div class="tags">
+        <div class="tag">Ionic</div>
+        <div class="tag">Electron</div>
+        <div class="tag">PWAs</div>
+      </div>
 			<div>
 			<img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="Sonarqube Logo" width="50" height="50"/>
 			</div>
