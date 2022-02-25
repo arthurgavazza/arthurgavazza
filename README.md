@@ -5,7 +5,7 @@
 <p>I belive that undertanding the fundamentals of the technologies I'm using is critical for improving my problem solving skills, 
 thats why I'm aways seeking to become a fullcycle developer.
 </p>
-<p>Most of my background is in freelancing and entrepenouship, I have a lot of experience
+<p>Most of my background is in freelancing and entrepreneurship, I have a lot of experience
 tranforming business requirements in real production ready products and that developed my Ubiquitous Language skills, 
  I also have learned a lot about devops and creating productive pipelies so that I was able to handle several differente projects 
  concurrently 
@@ -20,11 +20,16 @@ tranforming business requirements in real production ready products and that dev
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node Logo" width="50" height="50"/>
 </div>
 
+<div>
 <h1>Cloud</h1>
 <img src="https://raw.githubusercontent.com/arthurgavazza/arthurgavazza/main/langstack.svg?token=GHSAT0AAAAAABRPPNHZXENVCKMZHAUGFFDYYQZCY3A" alt="cloudstack" width="400" height="400">
 
 <h1>Learning</h1>
 <img src="https://raw.githubusercontent.com/arthurgavazza/arthurgavazza/main/cloudstack.svg" alt="learning" width="400" height="400">
+</div>
+
+
+<h1>Codind Activity</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurgavazza&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
