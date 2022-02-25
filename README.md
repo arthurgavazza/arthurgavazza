@@ -29,7 +29,7 @@ tranforming business requirements in real production ready products and that dev
 </div>
 
 
-<h1>Codind Activity</h1>
+<h1>Coding Activity</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurgavazza&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
