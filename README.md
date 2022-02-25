@@ -21,7 +21,8 @@ tranforming business requirements in real production ready products and that dev
 My current Cloud and devops toolbox
  <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="Sonarqube Logo" width="50" height="50"/>
-
+ <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
    <style>
         .tags {
           display: flex;
@@ -61,7 +62,7 @@ My current Cloud and devops toolbox
         <div class="tag">Electron</div>
         <div class="tag">.NET</div>
  </div>
-
+  </div>
 
 
 My current testing toolbox
