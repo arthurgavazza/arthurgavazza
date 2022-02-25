@@ -22,7 +22,45 @@ My current Cloud and devops toolbox
  <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="Sonarqube Logo" width="50" height="50"/>
 
-![](https://via.placeholder.com/15/f03c15/000000?text=+) `Sonarqube`
+   <style>
+        .tags {
+          display: flex;
+          flex-wrap: wrap;
+          height: 100%;
+          width: 100%;
+        }
+        .tag {
+          background-color: #E3FFFF;
+          border-radius: 0.25em;
+          color: #0ca4a5;
+          border: 1px solid #0ca4a5;
+          display: inline-block;
+          font-size: 0.75em;
+          line-height: 2em;
+          margin: 0.125em;
+          padding: 0 0.5em;
+          text-decoration: none;
+          font-family: sans-serif;
+        }
+   </style>
+      
+
+  <div class="tags">
+        <div class="tag">Angular</div>
+        <div class="tag">Vue(X)</div>
+        <div class="tag">JavaScript</div>
+        <div class="tag">TypeScript</div>
+      </div>
+      <div class="tags">
+        <div class="tag">(S)CSS</div>
+        <div class="tag">Building UIs</div>
+        <div class="tag">Web Components</div>
+      </div>
+      <div class="tags">
+        <div class="tag">Ionic</div>
+        <div class="tag">Electron</div>
+        <div class="tag">.NET</div>
+ </div>
 
 
 
