@@ -22,9 +22,9 @@ tranforming business requirements in real production ready products and that dev
 
 <div align="center">
 <h1>Cloud</h1>
-<img src="https://raw.githubusercontent.com/arthurgavazza/arthurgavazza/main/langstack.svg?token=GHSAT0AAAAAABRPPNHZXENVCKMZHAUGFFDYYQZCY3A" alt="cloudstack" width="300" height="300">
+<img src="https://raw.githubusercontent.com/arthurgavazza/arthurgavazza/main/langstack.svg?token=GHSAT0AAAAAABRPPNHZXENVCKMZHAUGFFDYYQZCY3A" alt="cloudstack" width="500" height="500">
 <h1>Learning</h1>
-<img src="https://raw.githubusercontent.com/arthurgavazza/arthurgavazza/main/cloudstack.svg" alt="learning" width="300" height="300">
+<img src="https://raw.githubusercontent.com/arthurgavazza/arthurgavazza/main/cloudstack.svg" alt="learning" width="500" height="500">
 </div>
 <h1>Coding Activity</h1>
 
