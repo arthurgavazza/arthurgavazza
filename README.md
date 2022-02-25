@@ -28,5 +28,8 @@ tranforming business requirements in real production ready products and that dev
 <img src="https://raw.githubusercontent.com/arthurgavazza/arthurgavazza/main/cloudstack.svg" alt="learning" width="400" height="400">
 </div>
 
+
+<h1>Codind Activity</h1>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurgavazza&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
