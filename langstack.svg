@@ -56,7 +56,10 @@
 				<img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ Logo" width="50" height="50"/>
 				
 			</div>
+			<div>
 			<img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="Sonarqube Logo" width="50" height="50"/>
+			</div>
+			
 		</div>
 	</foreignObject>
 </svg>
