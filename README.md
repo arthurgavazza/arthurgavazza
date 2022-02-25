@@ -18,11 +18,7 @@ tranforming business requirements in real production ready products and that dev
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="Typescript Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Go Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="C# Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node Logo" width="50" height="50"/>
 
-My current Cloud and devops toolbox
-
-<div><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="Sonarqube Logo" width="50" height="50"/>
-</div>
+<img src="https://github.com/arthurgavazza/arthurgavazza/blob/main/langstack.svg" alt="cloudstack" width="400" height="400">
 
 
 
