@@ -82,7 +82,7 @@
 				<h1> My current toolbox</h1>
 				<p>Cloud and Devops</p>
 				<div class="stacks">
-                <div class="tag"><img src="./logos/aws-2.svg" alt="Aws  Logo" width="50" height="50"/><p>Aws</p></div>
+                <div class="tag"><img src="https://github.com/arthurgavazza/arthurgavazza/blob/main/logos/aws-2.svg" alt="Aws  Logo" width="50" height="50"/><p>Aws</p></div>
 				<div class="tag"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/><p>Git</p></div>
 				<div class="tag"><img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="50" height="50"/><p>Github</p></div>
 				<div class="tag"><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/><p>Docker</p></div>
