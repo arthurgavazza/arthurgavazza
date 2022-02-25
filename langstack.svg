@@ -20,7 +20,7 @@
 					align-items: center;
 					justify-content: center;
 					margin: 0;
-					width: 100%;
+					width: 200px;
 					height: 400px;
 			                background:grey;
 					border-radius: 10px;
