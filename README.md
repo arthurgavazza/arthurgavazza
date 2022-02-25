@@ -24,7 +24,7 @@ tranforming business requirements in real production ready products and that dev
 <img src="https://raw.githubusercontent.com/arthurgavazza/arthurgavazza/main/langstack.svg?token=GHSAT0AAAAAABRPPNHZXENVCKMZHAUGFFDYYQZCY3A" alt="cloudstack" width="400" height="400">
 
 <h1>Learning</h1>
-<img src="https://raw.githubusercontent.com/arthurgavazza/arthurgavazza/main/langstack.svg?token=GHSAT0AAAAAABRPPNHZXENVCKMZHAUGFFDYYQZCY3A" alt="learning" width="400" height="400">
+<img src="https://raw.githubusercontent.com/arthurgavazza/arthurgavazza/main/cloudstack.svg" alt="learning" width="400" height="400">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurgavazza&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
