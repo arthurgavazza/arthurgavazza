@@ -1,5 +1,5 @@
 ### Hi there 👋 i'm Arthur Gavazza
-<p>I'm a software engineer passionate about understand how things work on every abstraction layer,I
+<p>I'm a software engineer passionate about understanding how things work on every abstraction layer,I
   love challenges and problem solving. 
 </p>
 <p>I belive that undertanding the fundamentals of the technologies I'm using is critical for improving my problem solving skills, 
